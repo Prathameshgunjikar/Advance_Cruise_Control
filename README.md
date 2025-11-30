@@ -96,7 +96,7 @@ Used to simulate vehicle acceleration/braking
 
 # Methodology 
 
-![Block Diagram](images/block_diagram.png)
+<img src="https://github.com/Prathameshgunjikar/Advance_Cruise_Control/blob/main/images/block_diagram.png" width="400"/>
 
 # 🧪 Results
 
