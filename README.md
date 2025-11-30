@@ -100,7 +100,7 @@ Used to simulate vehicle acceleration/braking
 
 # 🧪 Results
 
-![Hardware Implementation](images/hardware.png)
+<img src="https://github.com/Prathameshgunjikar/Advance_Cruise_Control/blob/main/images/Screenshot%202025-11-30%20123305.png" width="400"/>
 
 ```
 ACC simulation validated speed control
